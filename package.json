@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chakra": "^0.0.3",
+    "chalk": "^5.2.0"
+  }
+}
